@@ -2,12 +2,12 @@
 
 
 ## Installations 
-nltk
-scikit-learn 
-gensim
-re
-pandas 
-numpy
-os 
-pingouin 
-plotly
+nltk <br>
+scikit-learn <br>
+gensim <br>
+re <br>
+pandas <br>
+numpy <br>
+os <br>
+pingouin <br>
+plotly <br>
